@@ -1,6 +1,8 @@
 {
   "name": "latest",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "3b7637a7"
 }
